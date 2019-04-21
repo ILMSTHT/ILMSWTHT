@@ -1,0 +1,51 @@
+[
+    {
+        "romName": "HavocOS",
+        "path": "HavocOS",
+        "deviceData": [
+            {
+                "name": "land",
+                "builds": [
+                    {
+                        "name": "Havoc-OS-20180826-land-Unofficial.zip",
+                        "url": "https://sourceforge.net/projects/raza/files/HavocOS/Havoc-OS-20180826-land-Unofficial.zip/download"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "romName": "Bootlegger",
+        "path": "Bootlegger",
+        "deviceData": [
+            {
+                "name": "land",
+                "builds": [
+                    {
+                        "name": "BootleggersROM-Oreo4land.3.0-Stable-Unshishufied-20180825.zip",
+                        "url": "https://sourceforge.net/projects/raza/files/BootleggersROM/BootleggersROM-Oreo4land.3.0-Stable-Unshishufied-20180825.zip/download"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "romName": "Recovery",
+        "path": "Recovery",
+        "deviceData": [
+            {
+                "name": "ASUS_X00PS",
+                "builds": [
+                    {
+                    "name": "TWRP-3.3.0-X00PD-20190413.img",
+                    "url": "https://sourceforge.net/projects/raza/files/ASUS_X00PD/Recovery/TWRP/TWRP-3.3.0-X00PD-20190413.img/download"
+                    },
+                    {
+                        "name": "twrp-3.2.3-X00PD.img",
+                        "url": "https://sourceforge.net/projects/raza/files/ASUS_X00PD/Recovery/TWRP/twrp-3.2.3-X00PD.img/download"
+                    }
+                ]
+            }
+        ]
+    }
+]
