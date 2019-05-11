@@ -36,10 +36,22 @@
             {
                 "name": "ASUS_X00PS",
                 "builds": [
+                   {
+                    	"name": "PitchBlack-X00PD-2.9.0-20190510-0721-UNOFFICIAL.zip",
+                    	"url": "https://sourceforge.net/projects/raza/files/ASUS_X00PD/Recovery/PBRP/PitchBlack-X00PD-2.9.0-20190510-0721-UNOFFICIAL.zip/download"
+                    }'
+                    {
+                    	"name": "OrangeFox-R9.0-Unofficial-X00PD-20190509.zip",
+                    	"url": "https://sourceforge.net/projects/raza/files/ASUS_X00PD/Recovery/OrangeFox/OrangeFox-R9.0-Unofficial-X00PD-20190509.zip/download"
+                    }'
                     {
                     "name": "TWRP-3.3.0-X00PD-20190413.img",
                     "url": "https://sourceforge.net/projects/raza/files/ASUS_X00PD/Recovery/TWRP/TWRP-3.3.0-X00PD-20190413.img/download"
                     },
+                    {
+                    	"name": "BatikRecovery-3.2.3-X00PD-20190215.zip",
+                    	"url": "https://sourceforge.net/projects/raza/files/ASUS_X00PD/Recovery/Batik/BatikRecovery-3.2.3-X00PD-20190215.zip/download"
+                    }'
                     {
                         "name": "twrp-3.2.3-X00PD.img",
                         "url": "https://sourceforge.net/projects/raza/files/ASUS_X00PD/Recovery/TWRP/twrp-3.2.3-X00PD.img/download"
