@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: raza231198.github.io
+Token: 64cad2db07f58239bbc6a0c2e1f2956d14895237b179f92f55a63bcd2c6297ba
